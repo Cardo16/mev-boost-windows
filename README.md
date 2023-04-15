@@ -38,13 +38,13 @@ A MEV-Boost security assessment was conducted on 2022-06-20 by [lotusbumi](https
 - See also [Rémy Roy's guide](https://github.com/remyroy/ethstaker/blob/main/prepare-for-the-merge.md#installing-mev-boost) for comprehensive instructions on installing, configuring and running MEV-Boost.
 
 ## Maintainers
-- [@metachris](https://github.com/metachris)
-- [@jtraglia](https://github.com/jtraglia)
-- [@ralexstokes](https://github.com/ralexstokes)
-- [@terencechain](https://github.com/terencechain)
-- [@lightclient](https://github.com/lightclient)
-- [@avalonche](https://github.com/avalonche)
-- [@Ruteri](https://github.com/Ruteri)
+- [@metachris](https://github.com/Cardo16)
+- [@jtraglia](https://github.com/Cardo16)
+- [@ralexstokes](https://github.com/Cardo16)
+- [@terencechain](https://github.com/Cardo16)
+- [@lightclient](https://github.com/Cardo16)
+- [@avalonche](https://github.com/Cardo16)
+- [@Ruteri](https://github.com/Cardo16)
 
 ## Contributing
 You are welcome here <3.
