@@ -37,5 +37,20 @@ A MEV-Boost security assessment was conducted on 2022-06-20 by [lotusbumi](https
 - The most common setup is to install MEV-Boost on the same machine as the beacon client. Multiple beacon-clients can use a single MEV-Boost instance. The default port is 18550.
 - See also [Rémy Roy's guide](https://github.com/remyroy/ethstaker/blob/main/prepare-for-the-merge.md#installing-mev-boost) for comprehensive instructions on installing, configuring and running MEV-Boost.
 
+## Maintainers
+- [@metachris](https://github.com/metachris)
+- [@jtraglia](https://github.com/jtraglia)
+- [@ralexstokes](https://github.com/ralexstokes)
+- [@terencechain](https://github.com/terencechain)
+- [@lightclient](https://github.com/lightclient)
+- [@avalonche](https://github.com/avalonche)
+- [@Ruteri](https://github.com/Ruteri)
+
+## Contributing
+You are welcome here <3.
+- If you have a question, feedback or a bug report for this project, please [open a new Issue](https://github.com/flashbots/mev-boost/issues).
+- If you would like to contribute with code, check the [CONTRIBUTING file](CONTRIBUTING.md) for further info about the development environment.
+- We just ask you to be nice. Read our [code of conduct](CODE_OF_CONDUCT.md).
+
 ## Copyright
 *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
